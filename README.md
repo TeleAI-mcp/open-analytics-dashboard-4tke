@@ -1,2 +1,3 @@
-# open-analytics-dashboard-4tke
-Automated issue comment bot repository
+# Open Analytics Dashboard 4Tke
+
+Automated issue comment bot repository.
